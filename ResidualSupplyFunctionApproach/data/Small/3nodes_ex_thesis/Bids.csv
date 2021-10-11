@@ -1,0 +1,4 @@
+Node,QtBids,QBid,QBidSeg,forT,QuantityLoQ,PriceLoQ,QuantityHiQ,PriceHiQ,status,Xlb,Xub
+1,1,1,1,1,0,20,3,20,1,0,1
+2,2,2,2,1,0,15,1,15,1,0,1
+3,3,3,3,1,0,10,1,10,1,0,1
